@@ -60,8 +60,6 @@ The original notebook from *Deep Learning with Python* by François Chollet can 
 - **Experimenting with Other Datasets**: The techniques used in this assignment can be extended to other datasets requiring sequence classification, such as weather forecasting, stock price prediction, or speech recognition.
   
 - **Tuning Hyperparameters**: Further optimization of the model’s hyperparameters could potentially improve the performance even more.
-  
-- **Model Comparison**: I plan to experiment with other architectures, such as combining Conv1D and RNN models, to see if further improvements can be made.
 
 ## Conclusion
 
